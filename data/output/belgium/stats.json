@@ -1,0 +1,7 @@
+{
+  "inputs": ["data/inputs/belgium/BelgiumHouse_A.png", "data/inputs/belgium/BelgiumHouse_B.png"],
+  "width": 512,
+  "height": 384,
+  "levels": 8,
+  "milliseconds": 61.4611
+}

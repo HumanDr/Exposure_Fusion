@@ -1,0 +1,7 @@
+{
+  "inputs": ["data/inputs/gan/o1.JPG", "data/inputs/gan/u1.JPG"],
+  "width": 2000,
+  "height": 1328,
+  "levels": 10,
+  "milliseconds": 1068.43
+}
